@@ -1,2 +1,2 @@
-# Dev-Boo
-Estou criando o meu site em HTML, CSS, JS.
+# Dev-Elouman
+Estou criando sites com HTML. CSS & JAVASCRIPT.
